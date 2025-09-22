@@ -23,10 +23,6 @@ Projects
 - Description:Explored a dataset on student performance to identify key factors influencing academic success. Using SQL queries, analyzed variables such as study time, sleep patterns, and attendance to uncover their impact on exam results. The project highlights the ability to extract insights from educational data that can support teachers and policymakers in making informed decisions.
 - DataCamp Project Link:https://www.datacamp.com/datalab/w/0cda8ed7-5cf7-426b-a369-bae1794bec10/edit
 
-3. [Project Title 3]  
-- **Description:** Short summary of the SQL analysis and insights.  
-- **DataCamp Project Link:** [View on DataCamp](https://www.datacamp.com/)  
-
 ---
 
 Next Steps
